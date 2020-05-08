@@ -13,7 +13,8 @@ permalink: https://bryanlubay.github.io/about_me
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-  about me
+    <h1>Hello</h1>
+    <h2>Hi</h2>
   </body>
 
 </html>
