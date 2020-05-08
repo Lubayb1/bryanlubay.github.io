@@ -1,6 +1,6 @@
 layout: page
 title: "ABOUT_ME"
-permalink: https://bryanlubay.github.io/about_me
+permalink: /about_me/
 
 <!DOCTYPE html>
 
