@@ -1,3 +1,9 @@
+<div hidden>
+layout: page
+title: "About Me"
+permalink: https://bryanlubay.github.io/about_me/
+</div>
+
 <html>
 
   <head>

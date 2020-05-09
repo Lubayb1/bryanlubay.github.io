@@ -1,3 +1,9 @@
+<div hidden>
+layout: page
+title: "Projects"
+permalink: https://bryanlubay.github.io/projects/
+</div>
+
 <html>
 
   <head>
