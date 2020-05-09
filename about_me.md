@@ -1,12 +1,11 @@
+---
+layout: page
+title: "About Me"
+permalink: /about_me/
+---
+
 <html>
-
-
-
-
-  <head hidden>
-  layout: page
-  title: "About Me"
-  permalink: /about_me/
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
