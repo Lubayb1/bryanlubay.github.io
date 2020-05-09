@@ -1,12 +1,12 @@
-<div hidden>
-layout: page
-title: "About Me"
-permalink: https://bryanlubay.github.io/about_me/
-</div>
-
 <html>
 
-  <head>
+
+
+
+  <head hidden>
+  layout: page
+  title: "About Me"
+  permalink: https://bryanlubay.github.io/about_me/
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
