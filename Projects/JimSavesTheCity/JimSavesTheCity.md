@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jim Saves The City"
-permalink: /Jim_Saves_The_City/
+permalink: /projects/Jim_Saves_The_City/
 ---
 
 <html>
@@ -10,7 +10,7 @@ permalink: /Jim_Saves_The_City/
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="../../styles.css">
   </head>
 
  <h1> About me </h1>
