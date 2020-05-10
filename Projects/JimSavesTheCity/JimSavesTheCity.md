@@ -13,6 +13,6 @@ permalink: /projects/Jim_Saves_The_City/
     <link rel="stylesheet" href="../../styles.css">
   </head>
 
- <h1> About me </h1>
+ <a href="https://github.com/bryanlubay/Jim-Saves-The-City">https://github.com/bryanlubay/Jim-Saves-The-City</a>
 
 </html>
