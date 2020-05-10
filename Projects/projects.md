@@ -16,6 +16,6 @@ permalink: /projects/
 
   <h1>Projects</h1>
 
-  <a href="https://bryanlubay.github.io/projects/Jim_Saves_The_City/"><h2>Jim Saves The City</h2></a>
+  <a href="https://bryanlubay.github.io/projects/Jim_Saves_The_City/"><h2>Jim Saves The City</h2></a><br>
 
 </html>
