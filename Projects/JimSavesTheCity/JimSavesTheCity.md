@@ -13,7 +13,7 @@ permalink: /projects/Jim_Saves_The_City/
     <link rel="stylesheet" href="../../styles.css">
   </head>
 
- <a href="https://github.com/bryanlubay/Jim-Saves-The-City">https://github.com/bryanlubay/Jim-Saves-The-City</a>
+ <a href="https://github.com/bryanlubay/Jim-Saves-The-City">https://github.com/bryanlubay/Jim-Saves-The-City</a><br><br>
 
  <video width="320" height="240" controls>
   <source src="/Projects/JimSavesTheCity/Jim_Demo.mp4" type="video/mp4">
