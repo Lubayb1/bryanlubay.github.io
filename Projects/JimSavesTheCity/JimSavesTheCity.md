@@ -15,4 +15,9 @@ permalink: /projects/Jim_Saves_The_City/
 
  <a href="https://github.com/bryanlubay/Jim-Saves-The-City">https://github.com/bryanlubay/Jim-Saves-The-City</a>
 
+ <video width="320" height="240" controls>
+  <source src="./Jim_Demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 </html>
