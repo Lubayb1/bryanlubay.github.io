@@ -22,6 +22,4 @@ permalink: /about_me/
  <h2> Deployment
  <h2> Leia / Bokyo
  <h2> UNLV Graduation
-
-</body>
-</html>
+ 
