@@ -15,8 +15,10 @@ permalink: /about_me/
 
 <body>
  <h1> About me </h1>
+ <div>
  <h2> Army </h2>
  <h3> When I was a senior in high school I decided to join the Army Reserve (2011) </h3>
+ </div>
  <h2> UNLV </h2>
  <h2> Places I've been to </h2>
  <h2> Video Games </h2>
