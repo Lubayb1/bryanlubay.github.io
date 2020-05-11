@@ -13,7 +13,7 @@ permalink: /projects/Battle_Buddies/
     <link rel="stylesheet" href="../../styles.css">
   </head>
 
- <a href="https://github.com/bryanlubay/Jim-Saves-The-City">Battle Buddies</a><br><br>
+ <a href="https://github.com/bryanlubay/Battle-Buddies">https://github.com/bryanlubay/Battle-Buddies</a><br><br>
 
 <iframe allowfullscreen="allowfullscreen" width="420" height="315"
 src="https://www.youtube.com/embed/s3hwH7O5Z_c">
