@@ -13,6 +13,7 @@ permalink: /about_me/
     <link rel="stylesheet" href="../styles.css">
   </head>
 
+<body>
  <h1> About me </h1>
-
+</body>
 </html>
