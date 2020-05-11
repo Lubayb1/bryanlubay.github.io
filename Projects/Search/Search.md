@@ -2,6 +2,7 @@
 layout: page
 title: "Search"
 permalink: /projects/Search/
+
 ---
 
 <html>
@@ -15,9 +16,4 @@ permalink: /projects/Search/
 
  <a href="https://github.com/bryanlubay/Search">https://github.com/bryanlubay/Search</a><br><br>
  <img src="Senior_design_page.jpeg">
- <img src="https://github.com/bryanlubay/bryanlubay.github.io/blob/master/Projects/Search/Senior_design_page.jpeg">
- <img src="![alt text](https://github.com/bryanlubay/bryanlubay.github.io/blob/master/Projects/Search/Senior_design_page.jpeg)
-">
- <img src=../Senior_design_page.jpeg>
- <h1>WTF 3</h1>
 </html>
