@@ -13,7 +13,7 @@ permalink: /projects/Search/
     <link rel="stylesheet" href="../../styles.css">
   </head>
 
- <a href="https://github.com/bryanlubay/Jim-Saves-The-City">Search</a><br><br>
+ <a href="https://github.com/bryanlubay/Search">Search</a><br><br>
 
  <img src=".Senior_design_page.jpeg">
 
