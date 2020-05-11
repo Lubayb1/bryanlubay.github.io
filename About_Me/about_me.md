@@ -14,7 +14,7 @@ permalink: /about_me/
   </head>
 
 <body>
- <p style="font-size:50%;"> I like Computer Science, video games, dogs
+ <p> I like computer science, video games, animals (dogs are my favorite), traveling, spending time with friends and family, having a good time and a bunch of other things I can't think of right now! Scroll down for my story! :grin:</p>
  <h2> Basic Training
  <h2> New York (Time Square / Nintendo World / National History Museum)
  <h2> Disney World
