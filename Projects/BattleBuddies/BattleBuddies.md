@@ -15,9 +15,8 @@ permalink: /projects/Battle_Buddies/
 
  <a href="https://github.com/bryanlubay/Jim-Saves-The-City">Battle Buddies</a><br><br>
 
- <video width="320" height="240" controls>
-  <source src="/Projects/JimSavesTheCity/Jim_Demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=s3hwH7O5Z_c&feature=youtu.be">
+</iframe>
 
 </html>
