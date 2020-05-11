@@ -17,7 +17,7 @@ permalink: /projects/
   <h1>Projects</h1>
 
   <a href="https://bryanlubay.github.io/projects/Jim_Saves_The_City/"><h2>Jim Saves The City</h2></a><br>
-  <a href="https://bryanlubay.github.io/projects/Search/"><h2>Jim Saves The City</h2></a><br>
-  <a href="https://bryanlubay.github.io/projects/BattleBuddies/"><h2>Jim Saves The City</h2></a><br>
+  <a href="https://bryanlubay.github.io/projects/Search/"><h2>Search</h2></a><br>
+  <a href="https://bryanlubay.github.io/projects/Battle_Buddies/"><h2>Battle Buddies</h2></a><br>
 
 </html>
