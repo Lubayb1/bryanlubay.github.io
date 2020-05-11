@@ -18,9 +18,9 @@ permalink: /about_me/
  <h2> Army </h2>
  <h3> When I was a senior in high school I decided to join the Army Reserve (2011) </h3>
  <h2> UNLV </h2>
- <h2> Places I've been to <h2>
- <h2> Video Games <h2>
- <h2> Friends <h2>
+ <h2> Places I've been to </h2>
+ <h2> Video Games </h2>
+ <h2> Friends </h2>
  <h2> Dogs </h2>
 
 </body>
