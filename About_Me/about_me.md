@@ -14,7 +14,6 @@ permalink: /about_me/
   </head>
 
 <body>
- <h1> About me
  <p style="font-size:50%;"> I like Computer Science, video games, dogs
  <h2> Basic Training
  <h2> New York (Time Square / Nintendo World / National History Museum)
