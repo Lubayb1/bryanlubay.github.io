@@ -15,9 +15,6 @@ permalink: /projects/Search/
 
  <a href="https://github.com/bryanlubay/Jim-Saves-The-City">Search</a><br><br>
 
- <video width="320" height="240" controls>
-  <source src="/Projects/JimSavesTheCity/Jim_Demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+ <img src="Senior_design_page.jpeg"></img>
 
 </html>
