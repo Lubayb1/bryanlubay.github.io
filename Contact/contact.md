@@ -14,6 +14,7 @@ permalink: /contact/
     <link rel="stylesheet" href="../styles.css">
   </head>
 
+  <br>
   <h1> Bryanlubay1@gmail.com </h1> <br>
   <h1> (702) 606 - 9731 </h1> <br>
   <a href="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/Bryan_Lubay_Resume.pdf"> <h1> Resume  </h1>  </a>
