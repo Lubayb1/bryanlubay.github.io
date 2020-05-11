@@ -15,6 +15,6 @@ permalink: /projects/Search/
 
  <a href="https://github.com/bryanlubay/Jim-Saves-The-City">Search</a><br><br>
 
- <img src="Senior_design_page.jpeg"></img>
+ <img src="/Senior_design_page.jpeg">
 
 </html>
