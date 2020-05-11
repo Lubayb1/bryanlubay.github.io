@@ -14,6 +14,7 @@ permalink: /about_me/
   </head>
 
 <body>
+<h1> 1
  <p> I like computer science, video games, animals (dogs are my favorite), traveling, spending time with friends and family, having a good time and a bunch of other things I can't think of right now! Scroll down for my story! &#128513;</p>
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Army_Graduation.jpeg">
  <h2> New York (Time Square / Nintendo World / National History Museum)
