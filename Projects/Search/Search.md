@@ -16,4 +16,5 @@ permalink: /projects/Search/
  <a href="https://github.com/bryanlubay/Search">Search</a><br><br>
 
  <img src="/Senior_design_page.jpeg">
+ <h1>WTF</h1>
 </html>
