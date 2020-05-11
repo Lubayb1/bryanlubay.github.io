@@ -21,6 +21,9 @@ permalink: /about_me/
 
 
  <h2> New York (Time Square / Nintendo World / National History Museum)
+ <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Time_Square.jpeg">
+<p>First time in New York with my girlfriend! (2015)</p>
+
  <h2> Disney World
  <h2> Texas
  <h2> Deployment
