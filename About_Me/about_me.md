@@ -20,10 +20,10 @@ permalink: /about_me/
 <p>I enlisted into the Army Reserve in 2011 at the age of 17 and graduated from Basic Training and Advanced Individual Training as an Automated Logistical Specialist</p><br>
 
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Time_Square.jpeg">
-<p>First time in New York with my girlfriend &#128525 (2015)</p>
+<p>First time in New York with my girlfriend &#128525 (2015)</p><br>
 
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Nintendo_World.jpeg">
-<p>Definetly had to visit Nintendo World &#128514 (2015)</p>
+<p>Definetly had to visit Nintendo World &#128514 (2015)</p><br>
 
  <h2> Disney World
  <h2> Texas
