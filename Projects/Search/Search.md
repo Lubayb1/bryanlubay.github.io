@@ -13,8 +13,8 @@ permalink: /projects/Search/
     <link rel="stylesheet" href="../../styles.css">
   </head>
 
- <a href="https://github.com/bryanlubay/Search">Search</a><br><br>
- <img src="./Senior_design_page.jpeg">
+ <a href="https://github.com/bryanlubay/Search">https://github.com/bryanlubay/Search</a><br><br>
+ <img src="/Senior_design_page.jpeg">
 
  <h1>WTF</h1>
 </html>
