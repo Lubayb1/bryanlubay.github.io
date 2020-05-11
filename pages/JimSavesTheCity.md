@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jim Saves The City"
-permalink: /Jim_Saves_The_City/
+permalink: /projects/Jim_Saves_The_City/
 ---
 
 <html>
