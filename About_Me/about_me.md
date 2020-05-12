@@ -14,7 +14,6 @@ permalink: /about_me/
   </head>
 
 <body>
-<h1> 1 </h1>
  <p> I like computer science, video games, animals (dogs are my favorite), traveling, spending time with friends and family, having a good time and a bunch of other things I can't think of right now! Scroll down for my story! &#128513;</p>
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Army_Graduation.jpeg">
 <p>I enlisted into the Army Reserve in 2011 at the age of 17 and graduated from Basic Training and Advanced Individual Training as an Automated Logistical Specialist</p><br>
