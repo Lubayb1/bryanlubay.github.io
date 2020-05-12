@@ -20,13 +20,20 @@ permalink: /about_me/
 <p>I enlisted into the Army Reserve in 2011 at the age of 17 and graduated from Basic Training and Advanced Individual Training as an Automated Logistical Specialist</p><br>
 
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Time_Square.jpeg">
-<p>First time in New York with my girlfriend &#128525; (2015)</p><br>
+<p>First time in New York with my girlfriend &#128525;</p><br>
 
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Nintendo_World.jpeg">
-<p>Definetly had to visit Nintendo World &#128514; (2015)</p><br>
+<p>Nintendo World &#128514;</p><br>
 
- <h2> Disney World
- <h2> Texas
+ <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Animal_Kingdom.jpeg">
+ <p>Disney World &#128519;</p><br>
+
+ <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Tree.jpeg">
+ <p>Tree of Life &#128561;</p><br>
+
+ <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Running.jpeg">
+ <p>Deployment Ruck Run &#9757;&#128170;</p><br>
+
  <h2> Deployment
  <h2> Leia / Bokyo
  <h2> UNLV Graduation
