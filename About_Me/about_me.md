@@ -34,7 +34,7 @@ permalink: /about_me/
  <p>Pre Deployment &#128526;</p><br>
 
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Running.jpeg">
- <p>Deployment Ruck Run &#9757;&#128170;</p><br>
+ <p>Deployment Ruck Run &#128170;</p><br>
 
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Graduation.jpeg">
  <p>Graduating with a Bachelor of Science in Computer Science from University of Nevada Las Vegas &#127891;</p><br>
