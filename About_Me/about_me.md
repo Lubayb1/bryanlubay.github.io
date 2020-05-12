@@ -37,6 +37,8 @@ permalink: /about_me/
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Graduation.jpeg">
  <p>Graduating with a Bachelor of Science in Computer Science from University of Nevada Las Vegas ;&#127891;</p><br>
 
- <h2> Leia / Bokyo
- <h2> UNLV Graduation
- 
+ <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Bokyo.jpeg">
+ <p>Bokyo ;&#128054;</p><br>
+
+  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Leia.jpeg">
+ <p>Leia ;&#128054;</p><br>
