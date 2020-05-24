@@ -6,6 +6,7 @@ body {
 img {
   width: 15%;
   height: 15%;
+  image-orientation: from-image;
 }
 
 .selfie{
