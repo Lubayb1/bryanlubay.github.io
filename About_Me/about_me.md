@@ -14,7 +14,7 @@ permalink: /about_me/
   </head>
 
 <body>
- <h2> I like computer science, video games, animals (dogs are my favorite), traveling, spending time with friends and family, having a good time and a bunch of other things I can't think of right now! Scroll down for my story! &#128513;</h2>
+ <h2> I like computer science, video games, dogs, traveling, spending time with friends and family, having a good time and a bunch of other things! Scroll down for my story! &#128513;</h2>
  <img class="about_me_img" src="https://raw.githubusercontent.com/bryanlubay/bryanlubay.github.io/master/About_Me/About_Me_Photos/Army_Graduation.jpeg">
 <p>Graduating from basic training &#128527;</p><br>
 
